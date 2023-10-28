@@ -106,5 +106,6 @@ int main() {
 
     fclose(arquivoResultado_Questao);
 
+	system ("pause");
     return 0;
 }
